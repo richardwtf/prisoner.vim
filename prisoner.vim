@@ -1,6 +1,6 @@
 " Vim color file
 " Maintainer: Richard Schwarz <git@richardschwarz.de>
-" Last Change: 12.06.2010
+" Last Change: 12.07.2010
 " Version: 0.22
 " URL: http://github.com/ricardodelnero/prisoner.vim
 
